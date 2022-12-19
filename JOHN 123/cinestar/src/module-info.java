@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Rivera
+ *
+ */
+module cinestar {
+}
